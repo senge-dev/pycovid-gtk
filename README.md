@@ -1,0 +1,1 @@
+# pycovid-gtk
